@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "ult13.falix.gg:38362",
+    "ip": "ult13.falix.gg",
     "port": 38262,
     "version": "1.18.2"
   },
