@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "AnimeTyan",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.17.1"
+    "ip": "ult11.falix.gg:39120",
+    "port": 39120,
+    "version": "1.18.2"
   },
 
   "position": {
@@ -25,8 +25,8 @@
     },
 
     "anti-afk": {
-      "enabled": false,
-      "sneak": false
+      "enabled": true,
+      "sneak": true
     },
 
     "chat-messages": {
@@ -43,7 +43,7 @@
     },
 
     "chat-log": true,
-    "auto-reconnect": false,
+    "auto-reconnect": true,
     "auto-recconect-delay": 5000
   }
 }
